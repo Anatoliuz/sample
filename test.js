@@ -1,3 +1,4 @@
+'use strict'
 let assert = require('assert');
 let hello = require('./public/main').hello;
 let plural = require('./public/main').plural;
